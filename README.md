@@ -56,5 +56,6 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### 🥇: GitHub Stats:
 <div>
-  ![Mikhel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnsemple83&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=mnsemple83&show_icons=true&theme=radical" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnsemple83&theme=radical" />
 </div>
