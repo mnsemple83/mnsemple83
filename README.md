@@ -51,3 +51,10 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🥇: GitHub Stats:
+<div>
+  ![Mikhel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnsemple83&show_icons=true&theme=radical)
+</div>
