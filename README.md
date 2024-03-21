@@ -31,8 +31,6 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 🌱: Pursuing a MS in Data Science from Pace University '24.
 
-- ⚡: In my free time, I read articles on TowardsDataScience to learn about new techniques.
-
 - 🎹: Also produce my own music using Ableton.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mnsemple-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikhel-semple)
