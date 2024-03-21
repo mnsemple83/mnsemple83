@@ -56,6 +56,6 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### 🥇: GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mnsemple83&show_icons=true&theme=radical" /><br />
+  <img src="https://streak-stats.demolab.com/?user=mnsemple83&theme=dark" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnsemple83&theme=radical" />
 </div>
