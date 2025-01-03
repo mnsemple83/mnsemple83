@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York, USA.
 - 🖥️: I’m working as a Data Coordinator in the healthcare industry.
 
-- 🌱: Pursuing a MS in Data Science from Pace University '24.
+- 🌱: Graduated with a MS in Data Science from Pace University '24.
 
-- 🎹: Also produce my own music using Ableton.
+- 🎹: Also produce my own music for fun!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mnsemple-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikhel-semple)
 
